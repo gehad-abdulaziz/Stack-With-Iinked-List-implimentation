@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1730365136 source:c:\users\gehad\documents\second year\ds\codes\stackwithimplimentaionoflist\main.c
+	<stdio.h>
+	"stacklistt.h"
+	"linked.h"
+
+1730364840 source:c:\users\gehad\documents\second year\ds\codes\stackwithimplimentaionoflist\linkend.c
+	<stdio.h>
+	<stdlib.h>
+	"linked.h"
+
+1730365239 c:\users\gehad\documents\second year\ds\codes\stackwithimplimentaionoflist\linked.h
+	<stdlib.h>
+	<stdio.h>
+
+1730364840 source:c:\users\gehad\documents\second year\ds\codes\stackwithimplimentaionoflist\stacklistt.c
+	"stacklistt.h"
+	"linked.h"
+	<stdlib.h>
+
+1730364840 c:\users\gehad\documents\second year\ds\codes\stackwithimplimentaionoflist\stacklistt.h
+	<stdio.h>
+	"linked.h"
+
